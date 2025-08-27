@@ -6,3 +6,12 @@ body {
   background: #76aded;
   /* background: linear-gradient(to top left, #2e619c, #c0ceee); */
 }
+
+.select-label {
+  font-size: 1.75rem; /* h3 boyutu (yaklaşık 28px) */
+  /* color: white;       beyaz renk */
+  color: rgb(181, 2, 2);
+  font-weight: bold;  /* kalın yazı (opsiyonel) */
+  display: block;     /* alt satıra almak için */
+  margin-bottom: 8px; /* select ile araya boşluk */
+}
