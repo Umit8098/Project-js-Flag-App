@@ -17,7 +17,7 @@
   </h3>
 </div>
 
-![Project ](./flag-app.gif)
+![flag-app](./img/flag-app.gif)
 
 <!-- TABLE OF CONTENTS -->
 
